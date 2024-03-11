@@ -32,7 +32,7 @@ public class UserDAO {
 
     public UserDAO() {
     }
-
+  String a="hello";
     protected Connection getConnection() {
         Connection connection = null;
         try {
